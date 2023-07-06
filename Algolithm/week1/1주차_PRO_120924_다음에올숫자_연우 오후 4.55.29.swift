@@ -12,3 +12,5 @@ func solution(_ common:[Int]) -> Int {
     }
     return answer
 }
+
+
